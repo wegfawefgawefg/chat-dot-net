@@ -1,0 +1,46 @@
+# Compiled binaries
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider IDE
+.idea/
+
+# VS Code directories
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+Recycle.Bin/
+
+# VS Code directories
+.vscode/
+
+# Windows
+*.dll
+*.exe
+*.pdb
+*.cache
+*.winmd
+*.log
+*.svclog
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
